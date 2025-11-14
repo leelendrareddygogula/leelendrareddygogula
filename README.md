@@ -17,13 +17,11 @@
 <h2>Education</h2>
 <table>
   <tr>
-    <b>
-    <td>University</td>
-    <td>Degree</td>
-    <td>Field</td>
-    <td>Graduation</td>
-    <td>CGPA</td>
-    </b>
+    <td><b>University</b></td>
+    <td><b>Degree</b></td>
+    <td><b>Field</b></td>
+    <td><b>Graduation</b></td>
+    <td><b>CGPA</b></td>
   </tr>
   <tr>
     <td>Florida Atlantic University</td>
