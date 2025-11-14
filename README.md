@@ -28,3 +28,8 @@
 </table>
 
 <h2>Experience</h2>
+<h3>Florida Atlantic University | Graduate Teaching Assistant</h3>
+<p>I have been working as a Graduate Teaching Assistant at Florida Atlantic University since Jan 2025. During my time in this role, I have helped students face problems they are afraid of, promoted conceptual and critical thinking, and solved problems using a combination of traditional and modern methods. Additionally, I have delivered lectures on topics that help students build a solid foundation, enabling them to understand the course more in-depth. While working, I have acquired skills such as leadership, taking responsibility, strong presentation, communication, and interpersonal skills. </p>
+
+<h3>Ziroh Labs | Java Intern</h3>
+<p>The role "Java Intern" at Ziroh Labs from October 2023 to November 2023 allowed me to enhance my skills in Core Java, Data Structures, and Algorithms, alongside some Machine Learning Algorithms such as K-nearest neighbours. In this role, I helped build a custom database structure that allows the organisation to store data for an Artificial Intelligence feature efficiently and with minimal time complexity. The data structure is programmed to store a large amount of data using indexing and weightage. </p>
