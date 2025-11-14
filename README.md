@@ -16,7 +16,7 @@
 
 <h2>Education</h2>
 <table>
-  <tr>
+  <tr bold>
     <td>University</td>
     <td>Degree</td>
     <td>Field</td>
