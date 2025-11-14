@@ -13,14 +13,14 @@
   </tr>
   <tr>
     <td>Florida Atlantic University</td>
-    <td>Master of Science (M. S.)</td>
+    <td>Master of Science (M.S.)</td>
     <td>Computer Science</td>
     <td>May 2026</td>
     <td>3.83/4</td>
   </tr>
   <tr>
     <td>Koneru Lakshmaiah Education Foundation</td>
-    <td>Bachelor of Technology (B. Tech.)</td>
+    <td>Bachelor of Technology (B.Tech.)</td>
     <td>Computer Science concentrated in Cybersecurity</td>
     <td>May 2024</td>
     <td>9.31/10 ~ 3.72/4</td>
