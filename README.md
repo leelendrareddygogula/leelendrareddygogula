@@ -1,6 +1,6 @@
 <h1>Leelendra Reddy Gogula</h1>
-<h3 style="font-weight: normal !important; font-style: normal !important">You can reach me out at <a href="mailto:gogulaleelendrareddy@gmail.com">gogulaleelendrareddy@gmail.com</a></h3>
-<h3 style="font-weight: normal !important; font-style: normal !important">Find me on LinkedIn at <a href="https://www.linkedin.com/in/leelendrareddygogula/">Leelendra Reddy Gogula</a></h3>
+<h4 style="font-weight: normal !important; font-style: normal !important">You can reach me out at <a href="mailto:gogulaleelendrareddy@gmail.com">gogulaleelendrareddy@gmail.com</a></h4>
+<h4 style="font-weight: normal !important; font-style: normal !important">Find me on LinkedIn at <a href="https://www.linkedin.com/in/leelendrareddygogula/">Leelendra Reddy Gogula</a></h4>
 
 <h2>Education</h2>
 <table>
@@ -26,3 +26,5 @@
     <td>9.31/10 ~ 3.72/4</td>
   </tr>
 </table>
+
+<h2>Experience</h2>
