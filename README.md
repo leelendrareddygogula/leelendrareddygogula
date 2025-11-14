@@ -1,6 +1,6 @@
 <h1>Leelendra Reddy Gogula</h1>
-<h3>You can reach me out at <a href="mailto:gogulaleelendrareddy@gmail.com">gogulaleelendrareddy@gmail.com</a></h3>
-<h3>Find me on LinkedIn at <a href="https://www.linkedin.com/in/leelendrareddygogula/">Leelendra Reddy Gogula</a></h3>
+<h3 style="font-weight: normal;">You can reach me out at <a href="mailto:gogulaleelendrareddy@gmail.com">gogulaleelendrareddy@gmail.com</a></h3>
+<h3 style="font-weight: normal;">Find me on LinkedIn at <a href="https://www.linkedin.com/in/leelendrareddygogula/">Leelendra Reddy Gogula</a></h3>
 
 <h2>Education</h2>
 <table>
