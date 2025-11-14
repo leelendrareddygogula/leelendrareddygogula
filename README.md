@@ -8,7 +8,7 @@
 <h2>Skills</h2>
 <ul>
   <li><b>Programming Languages:</b> Java, C++, Python, C</li>
-  <li><b>Web Development:</b> **Backend** - Spring Boot, Spring, Django, Flask; **Frontend** - HTML, CSS </li>
+  <li><b>Web Development:</b> <b>Backend</b> - Spring Boot, Spring, Django, Flask; <b>Frontend</b> - HTML, CSS </li>
   <li><b>Cloud Computing:</b> Amazon Web Services(AWS), Google Cloud Platform(GCP), Microsoft Azure</li>
   <li><b>Database:</b> MySQL, PostgreSQL, OracleDB</li>
   <li><b>Diverse:</b> Data Structures and Algorithms(DSA), Git, GitHub, Networks and Security, Digital Forensics, Microsoft Office 365</li>
