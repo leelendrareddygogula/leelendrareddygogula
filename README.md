@@ -5,6 +5,15 @@
 <h2>About</h2>
 <p>I'm a computer science enthusiast who is eager to learn new technologies that evolve every day in the field of Digital and Computer World. Currently, I'm knowledgeable in several topics, including cybersecurity, Web Development, Software Development, Databases, Microsoft 365 Suite, Secret Sharing Protocols, and data structures and algorithms. To enhance my skills across various domains, I have worked on numerous projects that combine at least two different domains. While working on this project, I have had the ability to exhibit leadership and team coordination skills. I can adapt to new changes soon, and I believe that I am a fast learner.</p>
 
+<h2>Skills</h2>
+<ul>
+  <li>Programming Languages: Java, C++, Python, C</li>
+  <li>Web Development: Backend - Spring Boot, Spring, Django, Flask; Frontend - HTML, CSS </li>
+  <li>Cloud Computing: Amazon Web Services(AWS), Google Cloud Platform(GCP), Microsoft Azure</li>
+  <li>Database: MySQL, PostgreSQL, OracleDB</li>
+  <li>Diverse: Data Structures and Algorithms(DSA), Git, GitHub, Networks and Security, Digital Forensics, Microsoft Office 365</li>
+</ul>
+
 <h2>Education</h2>
 <table>
   <tr>
@@ -49,4 +58,21 @@
 <p>This paper presents an innovative approach where the information can be shared from one user to another in a secure way, where the transfer was user-specific, i.e., no person other than the sender and the intended receiver can even know that the data was shared. The methods used in this paper include <b>Cryptography, Steganography, and Cloud Computing.</b> This research implements a methodology that combines cryptography and steganography with cloud computing to provide enhanced <b>security, helping us avoid data security issues</b>. The implementation includes <b>RSA and DES encryption from Cryptography, data hiding in images using LSB Steganography</b>, configuring cloud sources for storage, <b>data transmission using cloud user management, and instant data deletion in the cloud</b> with the help of various services offered by the cloud environment. The analysis of this approach involves comparing the image obtained after steganography, which hides the encrypted data, with the original image used for steganography to determine whether the changes made to the image can be easily identified. It is presented using various types of graphs, including histograms, bar graphs, and difference images, which are further explained in the Results and Analysis section. Link to the <a href="https://ijisae.org/index.php/IJISAE/article/view/4665" target="_blank">publication</a>.</p>
 
 <h3>Web Security and Web Application Security: Attacks and Prevention</h3>
-<p>The everyday life of a person goes on with the assistance of the internet at present. Without the internet, a person can do nothing. As the internet evolves, the threats related to it are becoming more rapid. Web applications are generally used over the internet, which helps users to provide their requested needs. As they are used over the internet, they are liable to many cyber-based attacks. Many security techniques have been developed over the years to build up the protection of web applications. Web application threats include both passive and active attacks. Prevention includes using various tools, applying security standards while building and measuring risk factors on a regular basis, and taking action accordingly. In this article, we <b>discussed some of the major threats to web applications</b> such as <b>SQL Injection, Data Breach, Remote File Inclusion, Phishing Attacks, Man-in-the-middle, Denial-of-Service Attacks</b>,  and <b>presented some ways to ensure our web application is secure from the threats and vulnerabilities</b> found on the internet such as <b>Web Application Firewalls, Vulnerability Scanners, Fuzzing Tools, Penetration Testing, and Cloud Computing. Link to the <a href="https://ieeexplore.ieee.org/document/10112741" target="_blank">publication</a>.</b></p>
+<p>The everyday life of a person goes on with the assistance of the internet at present. Without the internet, a person can do nothing. As the internet evolves, the threats related to it are becoming more rapid. Web applications are generally used over the internet, which helps users to provide their requested needs. As they are used over the internet, they are liable to many cyber-based attacks. Many security techniques have been developed over the years to build up the protection of web applications. Web application threats include both passive and active attacks. Prevention involves utilizing various tools, applying security standards during construction, and regularly assessing and mitigating risk factors to take action accordingly. In this article, we <b>discussed some of the major threats to web applications</b> such as <b>SQL Injection, Data Breach, Remote File Inclusion, Phishing Attacks, Man-in-the-middle, Denial-of-Service Attacks</b>,  and <b>presented some ways to ensure our web application is secure from the threats and vulnerabilities</b> found on the internet such as <b>Web Application Firewalls, Vulnerability Scanners, Fuzzing Tools, Penetration Testing, and Cloud Computing.</b> Link to the <a href="https://ieeexplore.ieee.org/document/10112741" target="_blank">publication</a>.</p>
+
+<h2>Awards and Certifications</h2>
+<p>
+  While I had knowledge in different domains, the certifications I earned from various organisations allowed me to feel more confident about my skills. Some certifications I earned are, 
+  <ul>
+    <li>AWS Certified Cloud Practitioner</li>
+    <li>Microsoft Certified: Azure Fundamentals</li>
+    <li> Microsoft Certified: Security, Compliance and Identity Fundamentals</li>
+    <li>Red Hat Certified Enterprise Application Developer</li>
+    <li>Wipro Java Full Stack Certification</li>
+    <li>EPAM Test Automation</li>
+    <li>Hacker Rank: Python (Basic)</li>
+    <li>Hacker Rank: Problem Solving (Basic)</li>
+    <li>Hacker Rank: Java (Basic)</li>
+    <li>Hacker Rank: SQL (Basic)</li>
+  </ul>
+</p>
