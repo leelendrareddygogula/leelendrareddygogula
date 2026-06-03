@@ -129,7 +129,7 @@ A solo-built URL shortening service in the style of Bitly or TinyURL. It accepts
     <td>Florida Atlantic University</td>
     <td>Computer Science</td>
     <td>May 2026</td>
-    <td>3.83 / 4</td>
+    <td>3.86 / 4</td>
   </tr>
   <tr>
     <td>B.Tech</td>
@@ -145,7 +145,7 @@ A solo-built URL shortening service in the style of Bitly or TinyURL. It accepts
 ## Experience
 
 <ul>
-  <li><strong>Graduate Teaching Assistant</strong> - Florida Atlantic University <em>(Jan 2025 – Present)</em><br>Deliver lectures, mentor students, and reinforce core CS concepts.</li>
+  <li><strong>Graduate Teaching Assistant</strong> - Florida Atlantic University <em>(Jan 2025 – May 2026)</em><br>Deliver lectures, mentor students, and reinforce core CS concepts.</li>
   <li><strong>Java Intern</strong> - Ziroh Labs <em>(Oct 2023 – Nov 2023)</em><br>Built a custom indexed data structure to store large datasets for an AI feature with minimal time complexity.</li>
 </ul>
 
